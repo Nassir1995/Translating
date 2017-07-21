@@ -67,6 +67,8 @@ PHP代码**必须**只能使用UTF-8编码格式且不能带字节顺序标志BO
 命名空间和类必须按照“自动加载”标准命名：[PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md "PSR-0"),[PSR-4](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
 。
 
+# 翻译进行中，未结束 #
+
 本人PHP小白，这是按自己理解翻译的，觉得我这篇不怎么好的推荐看看[http://www.cnblogs.com/52php/p/5852572.html](http://www.cnblogs.com/52php/p/5852572.html)这篇文章。
 
 最后对程序员道路上的前辈致以敬意。
